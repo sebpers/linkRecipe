@@ -24,7 +24,7 @@
       return {
         accountName: '',
         password: '',
-        login: true
+        login: false
       }
     },
     methods: {
@@ -41,6 +41,8 @@
     }
   }
 </script>
+
+
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
